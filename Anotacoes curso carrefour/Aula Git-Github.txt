@@ -1,0 +1,17 @@
+GIT- criado por Linus Torval.
+Objetos internos do git( blobs; trees; commits)
+Git bash - E um terminal entendido para otimizar o uso do git.
+Primeiros comandos do git
+-git init;
+-git add;
+-git commit; inclusao das anotacoes do curso de git/github
+git status branch main
+git push origin main- enviando os comits para nuvem
+Trabalhando com github
+sign in;
+username;
+e mail;
+passaword;
+Resolvendo conflitos;
+4git status
+modiefied:readme.md

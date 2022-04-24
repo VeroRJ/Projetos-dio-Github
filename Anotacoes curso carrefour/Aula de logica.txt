@@ -1,0 +1,12 @@
+E uma sequencia de passos para resolver problema.
+
+Https://studio.code.org/s/mc/stage/1/puzzle/1
+
+As contantes são imitaveis e nao sao alteradas durante a vida util no programa.
+
+Http://www.flowgorithm.org
+
+Expressoes aritmeticas/ expressoes literais/expressoes relacionadas/tomada decisao/ concatenacao/estrutura repeticao
+
+Linguagem programacao e portugol.
+Portugol- e uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados independente de linguagem de programacao.
